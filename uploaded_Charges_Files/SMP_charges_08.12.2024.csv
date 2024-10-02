@@ -1,0 +1,51 @@
+apptdate,rndrng prvdr,svc dprtmnt,appttype,apptstatus,apptcancelreason,patientid,patient name,patientdob,appt ins pkg name
+08/12/2024,FloresF,Main Office,Acute Follow Up 15,3 - Exam,,45964,ALICIA RAMIREZ SERRAT,07/14/1955,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+08/12/2024,FloresF,Main Office,Follow Up,3 - Exam,,59582,ROSA GARCIA SANTIAGO,07/07/1954,Aetna (Medicare Replacement/Advantage - PPO)
+08/12/2024,FloresF,Main Office,Imaging Review 15,3 - Exam,,57883,RAFAEL VALDEZ,07/06/1961,Highmark Wholecare (Medicaid Replacement - HMO)
+08/12/2024,FloresF,Main Office,Initial Appointment 30,3 - Exam,,40509,ANGEL LINARES,01/04/1964,BCBS-WA Premera (PPO)
+08/12/2024,FloresF,Main Office,Lab Work Review 15,3 - Exam,,34012,MARISELA FERNANDEZ,01/12/1969,Highmark Wholecare (Medicaid Replacement - HMO)
+08/12/2024,FloresF,Main Office,Lab Work Review 15,3 - Exam,,59487,JORGE VERA LUCIANO,01/11/1971,Highmark Wholecare (Medicaid Replacement - HMO)
+08/12/2024,FloresF,Main Office,Lab Work Review 15,3 - Exam,,59566,ANDY CARMONA FLORES,02/12/1971,Highmark Wholecare (Medicaid Replacement - HMO)
+08/12/2024,FloresF,Main Office,Lab Work Review 15,4 - Sign-Off,,52475,SORANGEL TEJADA SIERRA,11/20/1983,BCBS-PA Capital Blue Cross (PPO)
+08/12/2024,SOTOMAYOR_A,Main Office,Neuro Consult (Initial) 60,5 - Check-Out,,48462,NIULKA RODRIGUEZ,03/28/1974,BCBS-PA Highmark Blue Shield (PPO)
+08/12/2024,SOTOMAYOR_A,Main Office,Neuro Consult (Initial) 60,5 - Check-Out,,59561,YAMILE MARTINEZ HERNANDEZ,06/14/2006,Highmark Wholecare (Medicaid Replacement - HMO)
+08/12/2024,SOTOMAYOR_A,Main Office,Neuro Follow Up 30,5 - Check-Out,,32244,YOLANDA DELGADO,02/05/1955,Aetna - Dual Complete (Medicare Replacement/Advantage - HMO)
+08/12/2024,SOTOMAYOR_A,Main Office,Neuro Follow Up 30,5 - Check-Out,,39704,PATRICIA LESSIG,05/09/1947,BCBS-PA Capital Blue Cross (Medicare Replacement/Advantage - HMO)
+08/12/2024,SOTOMAYOR_A,Main Office,Neuro Follow Up 30,5 - Check-Out,,46813,EMILIA POLANCO DE VIDAL,01/05/1940,Medicare-PA (Medicare)
+08/12/2024,SOTOMAYOR_A,Main Office,Neuro Follow Up 30,5 - Check-Out,,58463,MARIO RIVERA,07/13/1956,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Acute Follow Up 15,3 - Exam,,59563,ANYI REYES COLON,02/10/1987,Anthem BCBS-NY
+08/12/2024,SOTOMAYOR_M,Main Office,Annual Wellness Visit 15,3 - Exam,,49515,GERARDO RODRIGUEZ,10/06/1982,BCBS-PA Highmark Blue Shield (PPO)
+08/12/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,34814,GABRIELA FLORES FLORES,09/08/2006,BCBS-PA Highmark Blue Shield (PPO)
+08/12/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,38425,DEMITRUES HUSTON,06/08/1959,Medicare-PA (Medicare)
+08/12/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,52628,LUIS TORRES ZAYAS,01/09/1968,*SELF PAY*
+08/12/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,53514,SYLVIA VIVES,05/16/1986,UPMC Health Plan (Medicaid Replacement - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,57783,ISIS MELENDEZ RIVER,01/05/1988,BCBS-PA Highmark Blue Shield (PPO)
+08/12/2024,SOTOMAYOR_M,Main Office,Follow Up,None,PATIENT NO SHOW/NOT SEEN,58609,EVA DE JOSEPH,04/01/1963,BCBS-PA Capital Blue Cross
+08/12/2024,SOTOMAYOR_M,Main Office,Imaging Review 15,3 - Exam,,27509,NELSIDA ABREU,01/01/1953,Aetna - Dual Complete (Medicare Replacement/Advantage - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Imaging Review 15,3 - Exam,,44127,VICTORIA OLIVARES,12/23/1972,BCBS-PA Highmark Blue Shield (PPO)
+08/12/2024,SOTOMAYOR_M,Main Office,Initial Appointment 30,3 - Exam,,59576,CECILIO NIEVES RODRIGUEZ,07/07/1996,BCBS-VA
+08/12/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,27667,NOHEMI ADAME,12/08/1970,UPMC Health Plan (Medicaid Replacement - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,35103,OCTAVIA GARCIA,01/13/1960,Medicare-PA (Medicare)
+08/12/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,37728,JANNETTE HERNANDEZ,04/06/1962,UPMC Health Plan (Medicaid Replacement - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,42391,IGNACIO MERCHANCANO,11/11/1972,BCBS-PA Capital Blue Cross (PPO)
+08/12/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,45324,ANDY PACHECO,06/15/1990,UPMC Health Plan (Medicaid Replacement - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,58094,MARIA MURIEL,03/19/1987,UPMC Health Plan (Medicaid Replacement - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,59225,RAMON OSORIA,07/06/1948,UPMC Health Plan (Medicaid Replacement - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,59403,VICTOR SANCHEZ,03/06/1967,UPMC Health Plan (Medicaid Replacement - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Med. Refill 15,3 - Exam,,33172,WILSON A DIAZ,12/23/1978,Highmark Wholecare (Medicaid Replacement - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Med. Refill 15,3 - Exam,,45252,CONCEPCION PEREZ,04/02/1964,*SELF PAY*
+08/12/2024,SOTOMAYOR_M,Main Office,Surgical Clearance,3 - Exam,,37944,CIPRIANA HERNANDEZ DE ROSA,04/28/1948,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+08/12/2024,SOTOMAYOR_M,Main Office,Weight Management,3 - Exam,,52572,PERLA TINOCO,05/11/1972,BCBS-PA Highmark BCBS (PPO)
+08/12/2024,SOTOMAYOR_M,Telehealth,Lab Work Review 15,3 - Exam,,59453,JUAN JACOBO- DELACRUZ,04/20/1956,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+08/12/2024,,Main Office,15 minute slot,None,,, ,,*SELF PAY*
+08/12/2024,,Main Office,30 minute slot,None,,, ,,*SELF PAY*
+08/12/2024,,Main Office,Acute Follow Up 15,None,,, ,,*SELF PAY*
+08/12/2024,,Main Office,Acute Initial Visit 15,None,,, ,,*SELF PAY*
+08/12/2024,,Main Office,Follow Up,None,PATIENT RESCHEDULED,51648,LOURDES TORRES,01/10/1952,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+08/12/2024,,Main Office,Imaging Review 15,None,PATIENT CANCELLED 24+ HRS IN ADVANCE,37396,FERMINA HERNANDEZ,11/24/1971,BCBS-VA
+08/12/2024,,Main Office,Lab Work Review 15,None,APPOINTMENT MOVED,52475,SORANGEL TEJADA SIERRA,11/20/1983,BCBS-PA Capital Blue Cross (PPO)
+08/12/2024,,Main Office,Lab Work Review 15,None,PATIENT CANCELLED 24+ HRS IN ADVANCE,59187,JENRY ARIAS,09/18/1968,BCBS-PA Capital Blue Cross (PPO)
+08/12/2024,,Main Office,Lab Work Review 15,None,SMP Cancel,59493,ESPERANZA JIMENEZ,12/25/1947,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+08/12/2024,,Main Office,Neuro Consult (Initial) 60,None,SCHEDULING ERROR,49625,LUIS SALAZAR,06/21/1953,UPMC Health Plan (Medicaid Replacement - HMO)
+08/12/2024,,Main Office,Neuro Follow Up 30,None,,58303,VICTOR GOMEZ DE JESUS,06/26/1966,UPMC Health Plan (Medicaid Replacement - HMO)
+08/12/2024,,Main Office,Surgical Clearance,None,APPOINTMENT MOVED,37944,CIPRIANA HERNANDEZ DE ROSA,04/28/1948,Highmark Wholecare (Medicare Replacement/Advantage - HMO)

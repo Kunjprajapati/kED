@@ -1,0 +1,62 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Charges</title>
+  <link rel="icon" href="{% static 'favicon.ico' %}" type="image/x-icon">
+  <link rel="stylesheet" href="/static/DailyEVDesign.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Daily Eligibility Verification</h1>
+    </div>
+    <div class="buttons">
+      <button class="button" onclick="handleCMDClick()">CMD</button>
+      <button class="button" onclick="handleCoolKidzClick()">CoolKidz</button>
+      <button class="button" onclick="handleHealthFirstClick()">Health First</button>
+      <button class="button" onclick="handleMAGClick()">MAG</button>
+      <button class="button" onclick="handleSWMDClick()">SWMD</button>
+      <button class="button" onclick="handleBHOClick()">BHO</button>
+      <button class="button" onclick="handleReturnClick()">Return</button>
+    </div>
+  </div>
+
+  <script>
+    function navigateTo(path) {
+      console.log("Navigating to " + path);
+      window.location.href = path;
+    }
+  
+    function handleReturnClick() {
+      navigateTo('/');
+    }
+  
+    function handleCMDClick() {
+      navigateTo('/DailyEV/CMD');
+    }
+
+    function handleCoolKidzClick() {
+      navigateTo('/DailyEV/Coolkidz');
+    }
+  
+    function handleHealthFirstClick() {
+      navigateTo('/DailyEV/HealthFirst');
+    }
+  
+    function handleMAGClick() {
+      navigateTo('/DailyEV/MAG');
+    }
+   
+    function handleSWMDClick() {
+      navigateTo('/DailyEV/SWMD');
+    }
+
+    function handleBHOClick() {
+      navigateTo('/DailyEV/BHO');
+    }
+  </script>
+</body>
+</html>

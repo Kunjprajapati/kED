@@ -1,0 +1,15 @@
+apptdate,rndrng prvdr,svc dprtmnt,appttype,apptstatus,apptcancelreason,patientid,patient name,patientdob,appt ins pkg name
+08/02/2024,FloresF,Main Office,Acute Follow Up 15,4 - Sign-Off,,59259,ANTONIO LANTIGUA,02/06/1941,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+08/02/2024,FloresF,Main Office,Follow Up,3 - Exam,,59328,FERMIN TORRES VARGAS,03/28/1975,BCBS-PA Highmark BCBS (PPO)
+08/02/2024,FloresF,Main Office,Hospital Discharge Manageme 15,3 - Exam,,59510,REGINA MAURICIO,09/08/1955,Aetna - Dual Complete (Medicare Replacement/Advantage - HMO)
+08/02/2024,FloresF,Main Office,Initial Appointment 30,3 - Exam,,59578,ARIONY SOSA POLANCO,07/26/1999,BCBS-WA Premera (PPO)
+08/02/2024,FloresF,Main Office,Initial Appointment 30,3 - Exam,,59579,JOSHUA RIVERA,04/04/1983,BCBS-PA Capital Blue Cross (PPO)
+08/02/2024,FloresF,Main Office,Lab Work Review 15,3 - Exam,,59500,RAUL FRIAS AGARAMONTE,05/18/1993,BCBS-PA Capital Blue Cross (PPO)
+08/02/2024,FloresF,Main Office,Telehealth-Est 15,3 - Exam,,47943,BLANCA RIVERA,10/11/1951,Medicare-PA (Medicare)
+08/02/2024,FloresF,Telehealth,Telehealth-Est 15,3 - Exam,,40141,ANGEL L LEBRON DAVILA,01/25/1945,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+08/02/2024,SOTOMAYOR_M,Main Office,Follow Up,None,SMP Cancel,40141,ANGEL L LEBRON DAVILA,01/25/1945,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+08/02/2024,,Main Office,15 minute slot,None,,, ,,*SELF PAY*
+08/02/2024,,Main Office,Acute Initial Visit 15,None,,, ,,*SELF PAY*
+08/02/2024,,Main Office,Home visit-FU 30,None,,, ,,*SELF PAY*
+08/02/2024,,Main Office,Lab Work Review 15,None,PATIENT RESCHEDULED,59561,YAMILE MARTINEZ HERNANDEZ,06/14/2006,Highmark Wholecare (Medicaid Replacement - HMO)
+08/02/2024,,Main Office,Lab Work Review 15,None,PATIENT RESCHEDULED,59571,JOSE ROMERO,02/16/1961,Highmark Wholecare (Medicaid Replacement - HMO)

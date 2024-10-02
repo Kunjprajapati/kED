@@ -1,0 +1,102 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Charges</title>
+  <link rel="icon" href="{% static 'favicon.ico' %}" type="image/x-icon">
+  <link rel="stylesheet" href="{% static 'DailyChargesDesign.css' %}">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Daily Charges</h1>
+    </div>
+    <div class="buttons">
+      <button class="button" onclick="handleCMCClick()">CMC</button>
+      <button class="button" onclick="handleCoolKidzClick()">CoolKidz</button>
+      <button class="button" onclick="handleGastroenterologyAtlantaClick()">Gastroenterology Atlanta</button>
+      <button class="button" onclick="handleGwinnettClick()">Gwinnett</button>
+      <button class="button" onclick="handleGulfClick()">Gulf</button>
+      <button class="button" onclick="handleHPCClick()">HPC</button>
+      <button class="button" onclick="handleSMPClick()">SMP</button>
+      <button class="button" onclick="handleSWMDClick()">SWMD</button>
+      <button class="button" onclick="handleThomasClick()">Thomas</button>
+      <button class="button" onclick="handleShivDharaClick()">ShivDhara</button>
+      <button class="button" onclick="handleStoneClick()">Stone</button>
+      <button class="button" onclick="handleMAGClick()">MAG</button>
+      <button class="button" onclick="handleEIMClick()">EIM</button>
+      <button class="button" onclick="handleRPLClick()">RPL</button>
+      <button class="button" onclick="handleReturnClick()">Return</button>
+    </div>
+  </div>
+
+  <script>
+    function navigateTo(path) {
+      console.log("Navigating to " + path);
+      window.location.href = path;
+    }
+  
+    function handleReturnClick() {
+      navigateTo('/');
+    }
+  
+    function handleCMCClick() {
+      navigateTo('/DailyCharges/cmc');
+    }
+  
+    function handleCoolKidzClick() {
+      navigateTo('/DailyCharges/coolkidz');
+    }
+  
+    function handleGastroenterologyAtlantaClick() {
+      navigateTo('/DailyCharges/Gastro');
+    }
+  
+    function handleGwinnettClick() {
+      navigateTo('/DailyCharges/Gwinnett');
+    }
+  
+    function handleGulfClick() {
+      navigateTo('/DailyCharges/Gulf');
+    }
+  
+    function handleHPCClick() {
+      navigateTo('/DailyCharges/HPC');
+    }
+  
+    function handleSMPClick() {
+      navigateTo('/DailyCharges/SMP');
+    }
+  
+    function handleSWMDClick() {
+      navigateTo('/DailyCharges/SWMD');
+    }
+  
+    function handleThomasClick() {
+      navigateTo('/DailyCharges/Thomas');
+    }
+  
+    function handleShivDharaClick() {
+      navigateTo('/DailyCharges/ShivDhara');
+    }
+  
+    function handleStoneClick() {
+      navigateTo('/DailyCharges/Stone');
+    }
+
+    function handleEIMClick() {
+      navigateTo('/DailyCharges/EIM');
+    }
+    
+    function handleRPLClick() {
+      navigateTo('/DailyCharges/RPL');
+    }
+
+    function handleMAGClick() {
+      navigateTo('/DailyCharges/MAG');
+    }
+  </script>
+</body>
+</html>

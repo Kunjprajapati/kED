@@ -1,0 +1,14 @@
+apptdate,rndrng prvdr,svc dprtmnt,appttype,apptstatus,apptcancelreason,patientid,patient name,patientdob,appt ins pkg name
+20-09-2024,FloresF,Main Office,Initial Appointment 30,5 - Check-Out,Confirmed,56021,GISELL RUIZ,24-12-1998,BCBS-WA Premera (PPO)
+20-09-2024,FloresF,Main Office,Initial Appointment 30,5 - Check-Out,Confirmed,59630,ALICIA CRUZ,20-05-1998,BCBS-WA Premera (PPO)
+20-09-2024,SOTOMAYOR_M,Main Office,Acute Follow Up 15,5 - Check-Out,Confirmed,51055,MERCEDES SOBALVARRO,24-09-1950,BCBS-PA Highmark Blue Shield - Community Blue (Medicare Replacement/Advantage - PPO)
+20-09-2024,SOTOMAYOR_M,Main Office,Follow Up,5 - Check-Out,Confirmed,55739,ERIC KOCHEL,25-11-1961,BCBS-PA Capital Blue Cross (PPO)
+20-09-2024,SOTOMAYOR_M,Main Office,Home visit-FU 30,5 - Check-Out,Confirmed,59464,HILDA CINTRON,14-09-1952,Aetna (HMO)
+20-09-2024,SOTOMAYOR_M,Main Office,Imaging Review 15,5 - Check-Out,Confirmed,43971,ANA NUNEZ DE REYNOSO,02-03-1942,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+20-09-2024,SOTOMAYOR_M,Main Office,Initial Appointment 30,5 - Check-Out,Confirmed,56607,AMNERY SAVINON-LUNA,08-09-1988,Highmark Wholecare (Medicaid Replacement - HMO)
+20-09-2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,5 - Check-Out,Confirmed,55879,MARINA FERNANDEZ,03-05-1960,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+20-09-2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,5 - Check-Out,Confirmed,56273,JUAN RODRIGUEZ,20-11-1967,UPMC Health Plan (Medicaid Replacement - HMO)
+20-09-2024,SOTOMAYOR_M,Main Office,Surgical Clearance,5 - Check-Out,Confirmed,38914,LINDA KEPPLEY,31-10-1947,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+20-09-2024,SOTOMAYOR_M,Main Office,Follow Up,None,PATIENT CANCELLED 24+ HRS IN ADVANCE,57844,MICHELLE MONTAGUE,11-07-1960,*SELF PAY*
+20-09-2024,SOTOMAYOR_M,Main Office,Follow Up,None,SCHEDULING ERROR,49823,GRECIA SANCHEZ,13-07-1950,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+20-09-2024,SOTOMAYOR_M,Main Office,Initial Appointment 30,None,APPOINTMENT MOVED,56607,AMNERY SAVINON-LUNA,08-09-1988,Highmark Wholecare (Medicaid Replacement - HMO)

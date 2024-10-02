@@ -1,0 +1,85 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GastroenterologyAtlanta</title>
+    <link rel="icon" href="{% static 'favicon.ico' %}" type="image/x-icon">
+    <link rel="stylesheet" href="/static/DailyCharges_Common_UploadDesign.css">
+  </head>
+  <body>
+    <div class="main">
+      <header>
+        <h1>Select GastroenterologyAtlanta Excel File</h1>
+      </header>
+      <form class="myform" id="uploadForm" enctype="multipart/form-data">
+        {% csrf_token %}
+        <div class="file-input-wrapper">
+          <label for="fileInput" class="file-label">
+            <i class="fas fa-upload"></i><b>Choose a DailyCharges RAW file</b>
+          </label>
+          <input type="file" id="fileInput" name="excelFile" class="file-input"
+            accept=".xls,.xlsx,.csv" />
+        </div>
+        <input type="hidden" id="actionInput" name="action" value="GastroenterologyAtlanta">
+        <div class="button-group">
+          <button type="button" class="btn btn-primary" onclick="handleGenerateFile('GastroenterologyAtlanta')">
+            <i class="fas fa-file-export"></i> Create File
+          </button>
+          <button type="button" class="btn btn-secondary" onclick="handleReturnClick()">
+            <i class="fas fa-arrow-left"></i> Return
+          </button>
+        </div>
+      </form>
+    </div>
+
+    <script>
+    function handleGenerateFile(action) {
+          const fileInput = document.getElementById('fileInput');
+          const file = fileInput.files[0];
+          if (!file) {
+            alert('Please select a file.');
+            return;  
+          }
+
+          const formData = new FormData();
+          formData.append('excelFile', file);
+          formData.append('action', action);  // Include action in the form data
+
+          fetch('/generate-file-dailyCharges', {
+            method: 'POST',
+            body: formData
+          })
+          .then(response => {
+            if (!response.ok) {
+              throw new Error('Network response was not ok');
+            }
+            
+            return response.blob();
+          })
+          .then(blob => {
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.style.display = 'none';
+            a.href = url;
+            a.download = file.name;
+            document.body.appendChild(a);
+            a.click();
+            window.URL.revokeObjectURL(url);
+
+            // Reset the form after successful file generation
+            document.getElementById('uploadForm').reset();
+          })
+          .catch(error => {
+            console.error('Error generating file:', error);
+            alert('Error generating file. Please try again.');
+          });
+        }
+
+        function handleReturnClick() {
+          window.location.href = '/DailyCharges';
+        }
+  </script>
+  </body>
+</html>

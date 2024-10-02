@@ -1,0 +1,43 @@
+<!-- mainpage.html -->
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{% static 'favicon.ico' %}" type="image/x-icon">
+    <link rel="stylesheet" href="/static/mainpage.css">
+    <title>Excel-Automation-System</title>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo-container">
+                <img src="{% static 'assets/RAIO-LOGO.png' %}" alt="RAIO Logo" class="logo">
+            </div>
+            <span class="raio"><span>RAIO</span> Excel-Automation System</span>
+        </div>
+        <div class="content">
+            <p>
+                Welcome to the RAIO Excel-Automation System. This
+                application helps you automate the processing of Excel
+                files for various organizations. Please select an option
+                below to get started.
+            </p>
+            <a href="/DailyCharges">
+                <button class="button">Charges</button>
+            </a>
+            <a href="/DailyEV">
+                <button class="button">EV - Eligibility Verification</button>
+            </a>
+            <a href="/AR">
+                <!-- <button class="button">AR</button> -->
+                <button class="button">AR - Account Receivable</button>
+            </a>
+            <a href="/ChargesCount">
+                <button class="button">Stone Rejections</button>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

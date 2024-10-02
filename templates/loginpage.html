@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- Coding By CodingNepal - www.codingnepalweb.com -->
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="{% static 'favicon.ico' %}" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Glassmorphism Login Form | CodingNepal</title>
+  <link rel="stylesheet" href="/static/loginpage.css">
+</head>
+<body>
+  <div class="wrapper">
+    <form action="#">
+      <h2>Login</h2>
+      <div class="input-field">
+        <input type="text" required id="username">
+        <label>Enter your username</label>
+      </div>
+      <div class="input-field">
+        <input type="text" required id="email">
+        <label>Enter your email</label>
+      </div>
+      <div class="input-field">
+        <input type="password" required id="password">
+        <label>Enter your password</label>
+      </div>
+      <div class="forget">
+        <label for="remember">
+          <input type="checkbox" id="remember">
+          <p>Remember me</p>
+        </label>
+        <a href="#">Forgot password?</a>
+      </div>
+      <button type="submit">Log In</button>
+      <div class="register">
+        <p>Don't have an account? <a href="#">Register</a></p>
+      </div>
+    </form>
+  </div>
+  <script>
+    document.querySelector('form').addEventListener('submit', function(event) {
+      event.preventDefault(); // Prevent the form from submitting
+      var username = document.getElementById('username').value;
+      var email = document.getElementById('email').value;
+      var password = document.getElementById('password').value;
+      if (!username || !email || !password) {
+        alert('Please enter username, email, and password.');
+      } else {
+        alert('Login successful (simulated)');
+        // Redirect to the login page if credentials are correct
+        window.location.href = 'mainpage';
+      }
+    });
+  </script>
+</body>
+</html>

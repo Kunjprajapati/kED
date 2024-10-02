@@ -1,0 +1,134 @@
+apptdate,rndrng prvdr,svc dprtmnt,appttype,apptstatus,apptcancelreason,patientid,patient name,patientdob,appt ins pkg name
+20-09-2024,Bansilal_V,Main Office,VACCINE,5 - Check-Out,Confirmed,15343,DANIEL WILSON-SILVA,30-03-2018,Cigna
+20-09-2024,Bansilal_V,Main Office,VACCINE,5 - Check-Out,Confirmed,15344,GABRIEL WILSON-SILVA,30-03-2018,Cigna
+20-09-2024,Bansilal_V,Main Office,VACCINE,5 - Check-Out,Confirmed,15951,RAFAEL WILSON-SILVA,03-08-2020,Cigna
+20-09-2024,Bansilal_V,Main Office,VACCINE,5 - Check-Out,Confirmed,19571,KAYLA PIXLEY,11-12-1989,GWH-Cigna - Diversified Administration Corporation - Cigna (PPO)
+20-09-2024,Bansilal_V,Main Office,VACCINE,5 - Check-Out,Confirmed,19895,KHLOE PIXLEY,30-08-2023,BCBS-CT
+20-09-2024,Bansilal_V,Main Office,VACCINE,5 - Check-Out,Confirmed,20085,DYLAN HENDRICK,12-03-2014,BCBS-CT (PPO)
+20-09-2024,Bansilal_V,Main Office,VACCINE,5 - Check-Out,Confirmed,20161,KOI SOLANO,07-07-2020,Medicaid-CT - Husky A (Medicaid)
+20-09-2024,Bansilal_V,Main Office,VACCINE,5 - Check-Out,Confirmed,20587,LEYLANI SANCHEZ,04-02-2019,Medicaid-CT - Husky A (Medicaid)
+20-09-2024,Bansilal_V,Main Office,VACCINE,5 - Check-Out,Confirmed,20863,SEAN BANNON,03-07-1989,United Healthcare
+20-09-2024,Bansilal_V,"Riverside Pediatrics, New Canaan",VACCINE,5 - Check-Out,Confirmed,17756,KATHARINE SMALL,14-09-1979,BCBS-PA Independence Blue Cross (PPO)
+20-09-2024,Bansilal_V,"Riverside Pediatrics, New Canaan",VACCINE,5 - Check-Out,Confirmed,18205,VANESSA PAULEY,05-12-1981,Cigna
+20-09-2024,Bansilal_V,"Riverside Pediatrics, New Canaan",VACCINE,5 - Check-Out,Confirmed,19374,LOGAN FUNG,08-02-2017,BCBS-CT (PPO)
+20-09-2024,Bansilal_V,"Riverside Pediatrics, New Canaan",VACCINE,5 - Check-Out,Confirmed,19666,LINCOLN FUNG,20-03-2019,BCBS-CT (PPO)
+20-09-2024,Bansilal_V,"Riverside Pediatrics, New Canaan",VACCINE,5 - Check-Out,Confirmed,20317,DANIELA GONZALEZ,01-05-2019,Meritain Health
+20-09-2024,Bansilal_V,"Riverside Pediatrics, New Canaan",VACCINE,5 - Check-Out,Confirmed,20860,TIFFANY MAK,22-04-1986,BCBS-CT
+20-09-2024,Bansilal_V,"Riverside Pediatrics, New Canaan",VACCINE,5 - Check-Out,Confirmed,20864,ALEXANDER FUNG,23-10-1985,BCBS-CT
+20-09-2024,Cifelli_K,"Riverside Pediatrics, New Canaan",LACTATION,5 - Check-Out,Confirmed,20795,NOAH KENNEDY,13-08-2024,BCBS-CT (PPO)
+20-09-2024,Cifelli_K,"Riverside Pediatrics, New Canaan",SICK 15,5 - Check-Out,Confirmed,17564,ELOISE HANNAH,26-11-2019,BCBS-CT (PPO)
+20-09-2024,Cifelli_K,"Riverside Pediatrics, New Canaan",SICK 15,5 - Check-Out,Confirmed,19251,ALESSANDRA BORRAJO,29-05-2020,United Healthcare (PPO)
+20-09-2024,Cifelli_K,"Riverside Pediatrics, New Canaan",SICK 15,5 - Check-Out,Confirmed,20712,JUDAH HECKERLING,13-03-2018,BCBS-CT (PPO)
+20-09-2024,Cifelli_K,"Riverside Pediatrics, New Canaan",WELL VISIT,5 - Check-Out,Confirmed,16343,SAMUEL DUQUE,31-08-2016,Medicaid-CT - Husky A (Medicaid)
+20-09-2024,Cifelli_K,"Riverside Pediatrics, New Canaan",WELL VISIT,5 - Check-Out,Confirmed,16413,CAMERON SCOVENS,06-08-2013,Medicaid-CT - Husky A (Medicaid)
+20-09-2024,Cifelli_K,"Riverside Pediatrics, New Canaan",WELL VISIT,5 - Check-Out,Confirmed,20651,JAMES MORRIS,20-06-2024,Aetna
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",FOLLOW UP SICK,5 - Check-Out,Confirmed,19215,FINLEY GOLDMANN,12-12-2022,BCBS-CT (PPO)
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",FOLLOW UP SICK,5 - Check-Out,Confirmed,19809,RAMI SOBOH,02-12-2008,Cigna
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",SICK 15,5 - Check-Out,Confirmed,16036,KEIRA BRIGHAM,21-08-2020,Cigna
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",SICK 15,5 - Check-Out,Confirmed,20180,EVELYN BASIL,21-11-2021,BCBS-CT (PPO)
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",SICK 15,5 - Check-Out,Confirmed,20247,VALERY CALDERON,11-09-2021,Medicaid-CT - Husky A (Medicaid)
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",SICK 30,5 - Check-Out,Confirmed,20844,MARGARET DE SANTIS,16-09-2024,Health Plans Inc - Harvard Pilgrim Health Care (PPO)
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",SICK 30,5 - Check-Out,Confirmed,20847,THEODORE BERNSTEIN,16-09-2024,BCBS-CT
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",WELL VISIT,3 - Exam,Confirmed,16901,MAY SMALL,11-05-2011,BCBS-CT (PPO)
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",WELL VISIT,3 - Exam,Confirmed,16902,BERNADETTE SMALL,07-08-2014,BCBS-CT (PPO)
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",WELL VISIT,4 - Sign-Off,Confirmed,18335,RAMONE PAULEY,09-04-2022,Cigna
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",WELL VISIT,5 - Check-Out,Confirmed,19897,POPPY COOGAN,14-08-2013,Medicaid-CT - Husky B (Medicaid)
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",WELL VISIT,5 - Check-Out,Confirmed,19932,CESC CONWAY,15-09-2020,BCBS-CT (PPO)
+20-09-2024,Fisher_M,"Riverside Pediatrics, New Canaan",WELL VISIT,5 - Check-Out,Confirmed,20588,AVA ROPICKI,19-05-2024,Aetna
+20-09-2024,Hilal_A,Main Office,FOLLOW UP SICK,5 - Check-Out,Confirmed,16139,JOSIAS PETZ -JIMENEZ,28-03-2020,Medicaid-CT - Husky A (Medicaid)
+20-09-2024,Hilal_A,Main Office,SICK 15,3 - Exam,Confirmed,8401,ERIC LORENZ,20-07-2006,ConnectiCare (POS)
+20-09-2024,Hilal_A,Main Office,SICK 15,3 - Exam,Confirmed,17019,IRIS KATSIGIANNAKIS,01-05-2021,BCBS-CT (PPO)
+20-09-2024,Hilal_A,Main Office,SICK 15,3 - Exam,Confirmed,20320,DAPHNE LIONETTI,03-01-2024,BCBS-CT (PPO)
+20-09-2024,Hilal_A,Main Office,SICK 30,3 - Exam,Confirmed,20849,ALEXANDER GANCHALA,17-09-2024,BCBS-CT (POS)
+20-09-2024,Hilal_A,Main Office,SICK 30,5 - Check-Out,Confirmed,20797,EMMA YU-TRUITT,18-08-2024,Meritain Health
+20-09-2024,Hilal_A,Main Office,WELL VISIT,5 - Check-Out,Confirmed,19399,SLOANE SIRVAITIS,09-03-2023,Aetna
+20-09-2024,Hilal_A,Main Office,WELL VISIT,5 - Check-Out,Confirmed,20596,JAXON DEDA,22-05-2024,Aetna
+20-09-2024,Oster_S,Main Office,FOLLOW UP SICK,5 - Check-Out,Confirmed,19693,ANNABEL CUI,18-02-2016,BCBS-CT (PPO)
+20-09-2024,Oster_S,Main Office,SICK 15,5 - Check-Out,Confirmed,15392,CHACE CRAIN,08-01-2011,Aetna (POS)
+20-09-2024,Oster_S,Main Office,SICK 15,5 - Check-Out,Confirmed,18275,RYAN BRENNAN,16-10-2006,Oxford Health Plans
+20-09-2024,Oster_S,Main Office,SICK 15,5 - Check-Out,Confirmed,19532,JAYDEN GONZALEZ,08-01-2009,Medicaid-CT - Husky A (Medicaid)
+20-09-2024,Oster_S,Main Office,SICK 15,5 - Check-Out,Confirmed,20707,CONRAD KIRINCIC,09-07-2024,BCBS-CT
+20-09-2024,Oster_S,Main Office,SICK 30,5 - Check-Out,Confirmed,20836,PAIGE JORDAN,05-09-2024,United Healthcare
+20-09-2024,Oster_S,Main Office,WELL VISIT,5 - Check-Out,Confirmed,16151,HENRY GABATHULER,20-07-2016,Oxford Health Plans - United Healthcare (PPO)
+20-09-2024,Oster_S,Main Office,WELL VISIT,5 - Check-Out,Confirmed,17802,THOMAS PEREZ BAY,10-01-2020,Aetna (POS)
+20-09-2024,Oster_S,Main Office,WELL VISIT,5 - Check-Out,Confirmed,19618,ELIZABETH ANDERSON,07-06-2023,Aetna (POS)
+20-09-2024,Oster_S,Main Office,WELL VISIT,5 - Check-Out,Confirmed,19960,PENELOPE RHEIN,14-09-2023,United Healthcare
+20-09-2024,Oster_S,Main Office,WELL VISIT,5 - Check-Out,Confirmed,20240,CAMERON BANNON,27-11-2023,United Healthcare
+20-09-2024,Oster_S,Main Office,WELL VISIT,5 - Check-Out,Confirmed,20285,SEBASTIAN HEREDIA,18-12-2023,United Healthcare
+20-09-2024,Oster_S,Main Office,WELL VISIT,5 - Check-Out,Confirmed,20345,KAI MCDONALD,21-01-2024,Cigna
+20-09-2024,Oster_S,Main Office,WELL VISIT,5 - Check-Out,Confirmed,20585,LUCIE HOLDSTEIN,16-05-2024,Aetna
+20-09-2024,Rosenbach_A,Main Office,FOLLOW UP SICK,3 - Exam,Confirmed,20671,AUGUST WATERFIELD,31-05-2020,Oxford Health Plans
+20-09-2024,Rosenbach_A,Main Office,SICK 15,5 - Check-Out,Confirmed,14757,LANDER OTEGUI,20-04-2016,United Healthcare
+20-09-2024,Rosenbach_A,Main Office,SICK 15,5 - Check-Out,Confirmed,16094,LEON RUBIN,20-05-2018,Oxford Health Plans - Freedom Network
+20-09-2024,Rosenbach_A,Main Office,SICK 15,5 - Check-Out,Confirmed,17134,JASPER BUCKLEY,07-06-2021,Aetna (POS)
+20-09-2024,Rosenbach_A,Main Office,SICK 15,5 - Check-Out,Confirmed,19892,ANDERSON BIRBACH,31-07-2015,Cigna
+20-09-2024,Rosenbach_A,Main Office,SICK 15,5 - Check-Out,Confirmed,20258,LEELA MILLS,10-12-2023,Medicaid-CT - Husky A (Medicaid)
+20-09-2024,Rosenbach_A,Main Office,SICK 15,5 - Check-Out,Confirmed,20607,SAGA BISHNOI,28-05-2024,Cigna
+20-09-2024,Rosenbach_A,Main Office,SICK 30,5 - Check-Out,Confirmed,20810,ISLA BUCKLEY,21-08-2024,Aetna (POS)
+20-09-2024,Rosenbach_A,Main Office,Telemedicine 15,3 - Exam,Confirmed,18326,JOSEF PERLLESHI,19-01-2018,1199SEIU Benefit and Pension Funds
+20-09-2024,Rosenbach_A,Main Office,Telemedicine 15,None,PATIENT CANCELLED,15392,CHACE CRAIN,08-01-2011,Aetna (POS)
+20-09-2024,Rosenbach_A,Main Office,Telemedicine 30,5 - Check-Out,Confirmed,15703,HUNTER FEWSTER,07-02-2011,BCBS-CT (PPO)
+20-09-2024,Rosenbach_A,Main Office,WELL VISIT,5 - Check-Out,Confirmed,10255,BENJAMIN SANDERS,24-09-2007,BCBS-CT
+20-09-2024,Rosenbach_A,Main Office,WELL VISIT,5 - Check-Out,Confirmed,10257,OLIVER SANDERS,24-08-2011,BCBS-CT
+20-09-2024,Rosenbach_A,Main Office,WELL VISIT,5 - Check-Out,Confirmed,10707,HUDSON SQUIRES,18-04-2008,United Healthcare
+20-09-2024,Rosenbach_A,Main Office,WELL VISIT,5 - Check-Out,Confirmed,12581,RYAN WADHWA,28-01-2008,BCBS-CT (PPO)
+20-09-2024,Rosenbach_A,Main Office,WELL VISIT,5 - Check-Out,Confirmed,18719,ETHAN MCNICOL,10-09-2021,United Healthcare
+20-09-2024,Rosenbach_A,Main Office,WELL VISIT,5 - Check-Out,Confirmed,20523,JORDAN MCNICOL,18-04-2024,United Healthcare (PPO)
+20-09-2024,Rosenbach_A,Main Office,WELL VISIT,None,PATIENT RESCHEDULED,19959,NICHOLAS ENTHOVEN,13-09-2023,United Healthcare
+20-09-2024,~NURSE,Main Office,VACCINE,None,PATIENT RESCHEDULED,20607,SAGA BISHNOI,28-05-2024,Cigna
+20-09-2024,~NURSE,"Riverside Pediatrics, New Canaan",VACCINE,None,PATIENT CANCELLED,14923,HANNAH RESTREPO,14-10-2019,BCBS-CT (PPO)
+20-09-2024,~NURSE,"Riverside Pediatrics, New Canaan",VACCINE,None,PATIENT RESCHEDULED,11896,SARAH RESTREPO,23-05-2015,BCBS-CT (PPO)
+20-09-2024,~NURSE,"Riverside Pediatrics, New Canaan",VACCINE,None,PATIENT RESCHEDULED,19374,LOGAN FUNG,08-02-2017,BCBS-CT (PPO)
+20-09-2024,~NURSE,"Riverside Pediatrics, New Canaan",VACCINE,None,PATIENT RESCHEDULED,19666,LINCOLN FUNG,20-03-2019,BCBS-CT (PPO)
+20-09-2024,Hilal_A,Main Office,CONSULT,None,PATIENT RESCHEDULED,12128,FINDLEY ELERT,18-10-2015,BCBS-CT
+20-09-2024,Hilal_A,Main Office,FOLLOW UP SICK,None,PATIENT RESCHEDULED,16139,JOSIAS PETZ -JIMENEZ,28-03-2020,Medicaid-CT - Husky A (Medicaid)
+20-09-2024,Hilal_A,Main Office,FOLLOW UP SICK,None,PATIENT RESCHEDULED,19090,NYLA MCNAMARA,01-07-2016,Oxford Health Plans
+20-09-2024,Hilal_A,Main Office,SICK 15,None,PATIENT CANCELLED,20707,CONRAD KIRINCIC,09-07-2024,BCBS-CT
+20-09-2024,Hilal_A,Main Office,SICK 15,None,PATIENT RESCHEDULED,17134,JASPER BUCKLEY,07-06-2021,Aetna (POS)
+20-09-2024,Hilal_A,Main Office,SICK 15,None,PATIENT RESCHEDULED,19675,ETHAN LALLEY,28-01-2023,Aetna
+20-09-2024,Hilal_A,Main Office,SICK 30,None,APPOINTMENT MOVED,20797,EMMA YU-TRUITT,18-08-2024,Meritain Health
+20-09-2024,Hilal_A,Main Office,SICK 30,None,CANCELLED FROM PATIENT PORTAL,18791,WILLIAM DUTHE,02-09-2022,BCBS-CT (PPO)
+20-09-2024,Hilal_A,Main Office,VACCINE,None,NO SHOW,20318,NATHANIEL GONZALEZ,18-12-2020,Meritain Health
+20-09-2024,Hilal_A,Main Office,VACCINE,None,PATIENT CANCELLED,17757,PARKER TILLES,03-06-2020,Aetna
+20-09-2024,Hilal_A,Main Office,VACCINE,None,PATIENT CANCELLED,19260,DYLAN TILLES,30-12-2022,Aetna
+20-09-2024,Hilal_A,Main Office,VACCINE,None,USER ERROR,20317,DANIELA GONZALEZ,01-05-2019,Meritain Health
+20-09-2024,Hilal_A,Main Office,WELL VISIT,None,PATIENT RESCHEDULED,13011,JOSHUA SANDERS,10-07-2006,BCBS-CT
+20-09-2024,Hilal_A,Main Office,WELL VISIT,None,PATIENT RESCHEDULED,20272,CORA SCHAAF,16-12-2023,BCBS-CT
+20-09-2024,Hilal_A,Main Office,WELL VISIT,None,PATIENT RESCHEDULED,20596,JAXON DEDA,22-05-2024,Aetna
+20-09-2024,Hilal_A,"Riverside Pediatrics, New Canaan",SICK 15,None,PATIENT CANCELLED,16074,DANNY O'SHEA,24-06-2009,Oxford Health Plans
+20-09-2024,Hilal_A,"Riverside Pediatrics, New Canaan",SICK 15,None,PATIENT CANCELLED,19649,AIDAN BRODY,12-12-2016,BCBS-CT (PPO)
+20-09-2024,Hilal_A,"Riverside Pediatrics, New Canaan",SICK 15,None,PATIENT CANCELLED,20739,ETHAN METTER,31-05-2023,Cigna
+20-09-2024,Hilal_A,"Riverside Pediatrics, New Canaan",SICK 15,None,PATIENT RESCHEDULED,20712,JUDAH HECKERLING,13-03-2018,BCBS-CT (PPO)
+20-09-2024,Hilal_A,"Riverside Pediatrics, New Canaan",VACCINE,None,APPOINTMENT MOVED,20860,TIFFANY MAK,22-04-1986,BCBS-CT
+20-09-2024,Hilal_A,"Riverside Pediatrics, New Canaan",VACCINE,None,PATIENT RESCHEDULED,20317,DANIELA GONZALEZ,01-05-2019,Meritain Health
+20-09-2024,Hilal_A,"Riverside Pediatrics, New Canaan",VACCINE,None,USER ERROR,17756,KATHARINE SMALL,14-09-1979,BCBS-PA Independence Blue Cross (PPO)
+20-09-2024,Hilal_A,"Riverside Pediatrics, New Canaan",WELL VISIT,None,PATIENT RESCHEDULED,17388,SHEA FRUCCI,20-08-2021,BCBS-CT (PPO)
+21-09-2024,JaneRubenstein,"Riverside Pediatrics, New Canaan",NEW PT SICK,5 - Check-Out,Confirmed,20869,KATALINA DANIELSEN,30-08-2017,BCBS-CT
+21-09-2024,JaneRubenstein,"Riverside Pediatrics, New Canaan",Weekend Sick 15,5 - Check-Out,Confirmed,15054,DOMENICA ZAPATA-MARDINI,13-07-2015,Aetna (POS)
+21-09-2024,JaneRubenstein,"Riverside Pediatrics, New Canaan",Weekend Sick 15,5 - Check-Out,Confirmed,15832,JOSIAH TRIANA,04-01-2012,Cigna
+21-09-2024,JaneRubenstein,"Riverside Pediatrics, New Canaan",Weekend Sick 15,5 - Check-Out,Confirmed,16927,ELIZABETH DI PRISCO,08-03-2021,BCBS-CT (PPO)
+21-09-2024,JaneRubenstein,"Riverside Pediatrics, New Canaan",Weekend Sick 15,5 - Check-Out,Confirmed,19505,BENJAMIN FORDE,20-04-2023,Aetna
+21-09-2024,JaneRubenstein,"Riverside Pediatrics, New Canaan",Weekend Sick 15,5 - Check-Out,Confirmed,19623,MADELINE MCDONOUGH,10-06-2023,Cigna
+21-09-2024,JaneRubenstein,"Riverside Pediatrics, New Canaan",Weekend Sick 15,5 - Check-Out,Confirmed,20783,KINGLSEY FRINTZILAS,29-06-2022,BCBS-CT (PPO)
+21-09-2024,Oster_S,Main Office,NEW PT SICK,5 - Check-Out,Confirmed,20868,CHASE GOLDSTEIN,11-04-2007,BCBS-CT (PPO)
+21-09-2024,Oster_S,Main Office,SICK 15,5 - Check-Out,Confirmed,13705,JULIAN HABUL,05-10-2015,United Healthcare
+21-09-2024,Oster_S,Main Office,SICK 15,5 - Check-Out,Confirmed,14918,CHARLOTTE SCOTT,29-01-2017,Aetna (EPO)
+21-09-2024,Oster_S,Main Office,SICK 15,5 - Check-Out,Confirmed,19630,PASQUALE CHIODI,13-06-2023,BCBS-CT (PPO)
+21-09-2024,Oster_S,Main Office,SICK 15,None,Confirmed,14485,HENRY CHAPMAN,25-07-2017,BCBS-CT (PPO)
+21-09-2024,Oster_S,Main Office,SICK 15,None,Confirmed,15980,HAILEY SWANSON,06-08-2020,Oxford Health Plans
+21-09-2024,Oster_S,Main Office,SICK 15,None,Confirmed,18462,EMILIE HARPER,06-05-2022,Aetna (EPO)
+21-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,13062,PRESTON GONNELLA,18-07-2014,Oxford Health Plans
+21-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,13064,HUNTER GONNELLA,19-09-2016,Oxford Health Plans
+21-09-2024,Hilal_A,Main Office,FOLLOW UP SICK,None,PATIENT RESCHEDULED,16139,JOSIAS PETZ -JIMENEZ,28-03-2020,Medicaid-CT - Husky A (Medicaid)
+21-09-2024,Hilal_A,"Riverside Pediatrics, New Canaan",Weekend Sick 15,None,PATIENT CANCELLED,18723,WILHELMINA CIOLLI,04-10-2012,Aetna (POS)
+22-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,7292,WELLS HARTLEY,12-08-2014,Aetna (PPO)
+22-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,7845,BENJAMIN KATZ,05-10-2009,Aetna
+22-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,10533,RYAN SHUMAKER,11-11-2011,United Healthcare
+22-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,14962,GEORGINA BARTOW,25-10-2019,Oxford Health Plans
+22-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,15766,HUNTER FRANK,25-07-2013,BCBS-CT (PPO)
+22-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,16826,RENA WILLIAMS,25-02-2021,BCBS-CT (POS)
+22-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,16916,GRIFFIN GUADAGNO,24-03-2021,United Healthcare
+22-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,18745,NAOMI HOULE,26-08-2022,Cigna
+22-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,19127,HUGH WALKER,30-11-2016,BCBS-CT (PPO)
+22-09-2024,Oster_S,Main Office,Weekend Sick 15,5 - Check-Out,Confirmed,19675,ETHAN LALLEY,28-01-2023,BCBS-CT (PPO)
+22-09-2024,Oster_S,Main Office,Weekend Sick 30,5 - Check-Out,Confirmed,20849,ALEXANDER GANCHALA,17-09-2024,BCBS-CT (POS)

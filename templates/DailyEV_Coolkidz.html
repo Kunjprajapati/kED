@@ -1,0 +1,85 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upload Excel Files</title>
+  <link rel="stylesheet" href="/static/DailyEV_Common_UploadDesign.css">  <!-- Adjust the path to your CSS file -->
+  <link rel="icon" href="{% static 'favicon.ico' %}" type="image/x-icon">
+</head>
+<body>
+  <div class="main">
+    <header>
+      <h1>Select Coolkidz Excel File</h1>
+    </header>
+    <form id="uploadForm" enctype="multipart/form-data">  <!-- enctype is necessary for file uploads -->
+      {% csrf_token %}
+      <input type="hidden" id="actionInput" name="action" value="UploadExcelFiles">
+
+      <div class="form-group">
+        <label for="oldFileInput"><b>Old DailyEV File</b></label>
+        <input type="file" id="oldFileInput" name="excelFile1" accept=".xls,.xlsx,.csv" />  <!-- Name matches backend expectation -->
+      </div>
+      
+      <div class="form-group">
+        <label for="newFileInput"><b>New Excel File</b></label>
+        <input type="file" id="newFileInput" name="excelFile2" accept=".xls,.xlsx,.csv" />  <!-- Name matches backend expectation -->
+      </div>
+
+      <button type="button" onclick="handleGenerateFiles('Coolkidz')">Generate Files</button>  <!-- Action name should match backend action -->
+      <button type="button" onclick="handleReturnClick()">Return</button>
+    </form>
+  </div>
+
+  <script>
+    function handleGenerateFiles(action) {
+      const oldFileInput = document.getElementById('oldFileInput');
+      const newFileInput = document.getElementById('newFileInput');
+      const oldFile = oldFileInput.files[0];
+      const newFile = newFileInput.files[0];
+
+      if (!oldFile || !newFile) {
+        alert('Please select both old and new Excel files.');
+        return;
+      }
+
+      const formData = new FormData();
+      formData.append('excelFile1', oldFile);  // Name should match backend expectation
+      formData.append('excelFile2', newFile);  // Name should match backend expectation
+      formData.append('action', action);  // Include action in the form data
+
+      fetch('/generate-file-dailyEV', {  // Ensure the endpoint matches your Django URL pattern
+        method: 'POST',
+        body: formData
+      })
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.blob();
+        })
+        .then(blob => {
+          const url = window.URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.style.display = 'none';
+          a.href = url;
+          a.download = newFile.name;  // Set a default filename or derive from response headers if available
+          document.body.appendChild(a);
+          a.click();
+          window.URL.revokeObjectURL(url);
+          document.getElementById('uploadForm').reset();
+
+        })
+        .catch(error => {
+          console.error('Error downloading file:', error);
+          alert('Error downloading file. Please try again.');
+        });
+    }
+
+    function handleReturnClick() {
+      window.location.href = '/DailyEV'; // Replace with actual return URL
+    }
+  </script>
+</body>
+</html>

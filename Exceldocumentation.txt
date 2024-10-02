@@ -1,0 +1,3 @@
+First -> The Home Page, Which contains the login and sign methods for authentication. 
+second -> Use packages of ".shortcuts" To Import the render function for rendering the templates of html, css..
+Third -> To let Django know about the "New Folder" which is created inside the Django's application directory. We need to "__init__.py" file.  

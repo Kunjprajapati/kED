@@ -1,0 +1,37 @@
+apptdate,rndrng prvdr,svc dprtmnt,appttype,apptstatus,apptcancelreason,patientid,patient name,patientdob,appt ins pkg name
+09/19/2024,FloresF,Main Office,Initial Appointment 30,5 - Check-Out,,59608,JULISSA JOSEPH ELIS,11/10/2001,Cigna - SISCO (PPO)
+09/19/2024,FloresF,Main Office,Lab Work Review 15,5 - Check-Out,,59510,REGINA MAURICIO,09/08/1955,Aetna - Dual Complete (Medicare Replacement/Advantage - HMO)
+09/19/2024,FloresF,Main Office,Lab Work Review 15,5 - Check-Out,,59526,JUAN HENRIQUEZ-RODRIGUEZ,02/09/1988,BCBS-PA Capital Blue Cross (PPO)
+09/19/2024,FloresF,Main Office,Lab Work Review 15,5 - Check-Out,,59609,ELIZABETH AGUERO CESA,01/17/1986,*SELF PAY*
+09/19/2024,FloresF,Main Office,Lab Work Review 15,5 - Check-Out,,59624,EVELYN RIVERA RUIZ,06/02/1961,BCBS-PA Capital Blue Cross (PPO)
+09/19/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,33836,GINA FEICK,04/06/1968,UPMC Health Plan (Medicaid Replacement - HMO)
+09/19/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,37908,SANDRA HESS,09/16/1962,UPMC Health Plan - UPMC Community Health Choices (Medicaid Replacement - HMO)
+09/19/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,44323,XIOMARA AGRAMONTE,02/04/1970,Medicare-PA (Medicare)
+09/19/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,48084,SONIA RIVERA,10/25/1946,BCBS-PA Capital Blue Cross (Medicare Replacement/Advantage - HMO)
+09/19/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,48822,ALEJANDRO RODRIGUEZ-CALDERON,10/22/1944,BCBS-PA Highmark Blue Shield - Community Blue (Medicare Replacement/Advantage - PPO)
+09/19/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,58142,MATILDE HICIANO DE OJEDA,11/25/1947,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+09/19/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,59348,JOCELYN OCASIO,06/29/1988,UPMC Health Plan (Medicaid Replacement - HMO)
+09/19/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,59413,EDUARDO GOMEZ-SALINAS,06/16/2008,BCBS-NJ (PPO)
+09/19/2024,SOTOMAYOR_M,Main Office,Follow Up,None,PATIENT NO SHOW/NOT SEEN,38037,OSCAR HINOJOSA-HERNANDEZ,01/08/1990,BCBS-PA Capital Blue Cross (PPO)
+09/19/2024,SOTOMAYOR_M,Main Office,Follow Up,None,SCHEDULING ERROR,59063,JOSE MALDONADO,07/25/1946,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+09/19/2024,SOTOMAYOR_M,Main Office,Forms 15,3 - Exam,,59312,ELVIRA PADILLA CANDELARIO,09/09/1944,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+09/19/2024,SOTOMAYOR_M,Main Office,Forms 15,3 - Exam,,59453,JUAN JACOBO- DELACRUZ,04/20/1956,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+09/19/2024,SOTOMAYOR_M,Main Office,Imaging Review 15,3 - Exam,,50800,MARIA SANTANA,03/12/1961,Highmark Wholecare (Medicaid Replacement - HMO)
+09/19/2024,SOTOMAYOR_M,Main Office,Imaging Review 15,None,SCHEDULING ERROR,39013,LINA JARAMILLO,11/03/1996,BCBS-PA Highmark Blue Shield (PPO)
+09/19/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,59396,IVETTE SEVERINO,07/10/1977,BCBS-PA Capital Blue Cross (PPO)
+09/19/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,None,PATIENT NO SHOW/NOT SEEN,59368,DION KLEIN,10/25/1962,Highmark Wholecare (Medicaid Replacement - HMO)
+09/19/2024,SOTOMAYOR_M,Main Office,Surgical Clearance,3 - Exam,,56910,ROBERT M GRANDE,07/29/1977,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+09/19/2024,,Main Office,15 minute slot,None,,, ,,*SELF PAY*
+09/19/2024,,Main Office,Acute Follow Up 15,None,,, ,,*SELF PAY*
+09/19/2024,,Main Office,Acute Initial Visit 15,None,,, ,,*SELF PAY*
+09/19/2024,,Main Office,Follow Up,None,PATIENT CANCELLED 24+ HRS IN ADVANCE,40638,ANGELA LOZADA,10/30/1988,Highmark Wholecare (Medicaid Replacement - HMO)
+09/19/2024,,Main Office,Follow Up,None,PATIENT CANCELLED 24+ HRS IN ADVANCE,52162,JOHNNY TORRES,06/13/1975,*SELF PAY*
+09/19/2024,,Main Office,Follow Up,None,PATIENT CANCELLED 24+ HRS IN ADVANCE,57374,SHARIMAR IRIZARRY,12/22/1995,Highmark Wholecare (Medicaid Replacement - HMO)
+09/19/2024,,Main Office,Follow Up,None,PATIENT RESCHEDULED,55899,RICHARD M MORAN,03/02/1970,Highmark Wholecare (Medicaid Replacement - HMO)
+09/19/2024,,Main Office,Follow Up,None,PT DISMISSED,36073,MAIRA GIRALDI,07/17/1971,*SELF PAY*
+09/19/2024,,Main Office,Follow Up,None,SMP Cancel,59371,FRANCISCO ALICEA VARGAS,07/07/1964,BCBS-TX
+09/19/2024,,Main Office,Hospital Discharge Manageme 15,None,SCHEDULING ERROR,42900,GLADYS NIEVES,05/28/1955,Aetna (Medicare Replacement/Advantage - PPO)
+09/19/2024,,Main Office,Lab Work Review 15,None,PATIENT RESCHEDULED,56428,ADALGISA LOPEZ,06/25/1972,BCBS-PA Highmark BCBS (PPO)
+09/19/2024,,Main Office,Lab Work Review 15,None,PATIENT RESCHEDULED,58639,JOSE VALDEZ,08/19/1973,BCBS-PA Highmark Blue Shield (PPO)
+09/19/2024,,Main Office,Lab Work Review 15,None,SCHEDULING ERROR,38995,ALVARO JARAMILLO,07/03/1964,BCBS-PA Capital Blue Cross
+09/19/2024,,Main Office,Well Child Exam-Est 15,None,SMP Cancel,35215,CARLOS GARCIA,11/23/2006,UPMC Health Plan (Medicaid Replacement - HMO)

@@ -1,0 +1,72 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Charges</title>
+  <link rel="icon" href="{% static 'favicon.ico' %}" type="image/x-icon">
+  <link rel="stylesheet" href="/static/ARDesign.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Account Receivable</h1>
+    </div>
+    <div class="buttons">
+      <button class="button" onclick="handleCoolKidzClick()">CoolKidz</button>
+      <button class="button" onclick="handleGastroenterologyAtlantaClick()">Gastro</button>
+      <button class="button" onclick="handleMAGClick()">MAG</button>
+      <button class="button" onclick="handleCMDClick()">CMD</button>
+      <button class="button" onclick="handleHPCClick()">HPC</button>
+      <button class="button" onclick="handleSWMDClick()">SWMD</button>
+      <button class="button" onclick="handleOakHillsClick()">Oak Hills</button>
+      <button class="button" onclick="handleGulfClick()">Gulf</button>
+      <button class="button" onclick="handleReturnClick()">Return</button>
+    </div>
+  </div>
+
+  <script>
+    function navigateTo(path) {
+      console.log("Navigating to " + path);
+      window.location.href = path;
+    }
+
+    function handleCoolKidzClick() {
+      navigateTo('/AR/Coolkidz');
+    }
+
+    function handleGastroenterologyAtlantaClick() {
+      navigateTo('/AR/GastroenterologyAtlanta');
+    }
+
+    function handleMAGClick() {
+      navigateTo('/AR/MAG');
+    }
+
+    function handleCMDClick() {
+      navigateTo('/AR/CMD');
+    }
+
+    function handleHPCClick() {
+      navigateTo('/AR/HPC');
+    }
+    function handleSWMDClick() {
+      navigateTo('/AR/SWMD');
+    }
+
+    function handleOakHillsClick() {
+      navigateTo('/AR/Oak_Hills');
+    }
+
+    function handleGulfClick() {
+      navigateTo('/AR/Gulf');
+    }
+
+    function handleReturnClick() {
+      navigateTo('/');
+    }
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+apptdate,rndrng prvdr,svc dprtmnt,appttype,apptstatus,apptcancelreason,patientid,patient name,patientdob,appt ins pkg name
+07/17/2024,FloresF,Main Office,Acute Follow Up 15,3 - Exam,,57544,NILESHKA DAVILA,11/27/1995,UPMC Health Plan - PHCS (PPO)
+07/17/2024,FloresF,Main Office,Acute Follow Up 15,4 - Sign-Off,,27591,ANA ACEVEDO-DIAZ,12/18/1968,Aetna - Dual Complete (Medicare Replacement/Advantage - HMO)
+07/17/2024,FloresF,Main Office,Acute Follow Up 15,4 - Sign-Off,,49742,MELVY ROSADO,11/26/1962,UPMC Health Plan (Medicaid Replacement - HMO)
+07/17/2024,FloresF,Main Office,Initial Appointment 30,4 - Sign-Off,,45126,JULIAN ORTIZ VAZQUEZ,10/30/1952,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+07/17/2024,FloresF,Main Office,Initial Appointment 30,5 - Check-Out,,59560,BELEN HERNANDEZ,09/05/1954,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+07/17/2024,FloresF,Main Office,Lab Work Review 15,3 - Exam,,57016,PEDRO PACHECO,06/29/1972,UPMC Health Plan (Medicaid Replacement - HMO)
+07/17/2024,FloresF,Main Office,Lab Work Review 15,4 - Sign-Off,,59545,JESUS SOTO,07/16/1968,Aetna (Medicare Replacement/Advantage - HMO)
+07/17/2024,FloresF,Main Office,Lab Work Review 15,None,PATIENT RESCHEDULED,59485,DOMINGO JIMENEZ,02/07/1955,Aetna (Medicare Replacement/Advantage - PPO)
+07/17/2024,FloresF,Telehealth,Acute Follow Up 15,4 - Sign-Off,,38995,ALVARO JARAMILLO,07/03/1964,BCBS-PA Capital Blue Cross
+07/17/2024,FloresF,Telehealth,Acute Follow Up 15,4 - Sign-Off,,42287,EDNA MARTINEZ-OCASIO,11/16/1958,Aetna (Medicare Replacement/Advantage - PPO)
+07/17/2024,SOTOMAYOR_M,Main Office,Acute Follow Up 15,3 - Exam,,28486,FATIMA APONTE,11/04/1972,UPMC Health Plan (Medicaid Replacement - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Acute Follow Up 15,3 - Exam,,52533,EVA TINOCO,07/02/1957,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Annual Wellness Visit 15,3 - Exam,,44720,ELSIE PADILLA RAMIREZ,02/20/1943,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,37851,YAJAIRA HERNANDEZ FELICIANO,06/11/1990,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,44515,GAWDIE PEREZ,09/22/1976,BCBS-NJ (PPO)
+07/17/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,53235,FRANCISCO VAZQUEZ GONZALEZ,09/16/1968,*SELF PAY*
+07/17/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,58563,MICAELA SANTIAGO ACEVEDO,11/26/1966,UPMC Health Plan (Medicaid Replacement - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,58589,MARIA O MELLA,10/27/1957,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Follow Up,3 - Exam,,59287,JOSE RIVERA -COLON,01/06/1964,BCBS-NJ (PPO)
+07/17/2024,SOTOMAYOR_M,Main Office,Hospital Discharge Manageme 15,3 - Exam,,50778,MELQUIADES SERRANO,12/10/1934,*SELF PAY*
+07/17/2024,SOTOMAYOR_M,Main Office,Imaging Review 15,None,PATIENT NO SHOW/NOT SEEN,49156,VIVIAN ROSA,02/21/1976,UPMC Health Plan (Medicaid Replacement - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,28104,JEAN BAZILE,12/25/1990,Highmark Wholecare (Medicaid Replacement - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,28282,GLADYS ARN-AYALA,11/24/1970,BCBS-PA Capital Blue Cross (PPO)
+07/17/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,32993,NANCY REYES,02/27/1966,UPMC Health Plan (Medicaid Replacement - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,50831,NEIDA SANTIAGO,03/29/1961,UPMC Health Plan (Medicaid Replacement - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,55476,MINERVA HINES,04/26/1966,BCBS-PA Capital Blue Cross
+07/17/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,57693,FERMIN ALICEA RODRIGUEZ,07/07/1958,Aetna (Medicare Replacement/Advantage - PPO)
+07/17/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,57804,JUAN DIAZ,06/28/1948,Aetna (Medicare Replacement/Advantage - PPO)
+07/17/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,59256,MERCEDES DURAN,05/02/1948,BCBS-PA Capital Blue Cross (Medicare Replacement/Advantage - PPO)
+07/17/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,59265,DEMETRIO BARRERA,11/29/1968,BCBS-PA Highmark Blue Shield (PPO)
+07/17/2024,SOTOMAYOR_M,Main Office,Lab Work Review 15,3 - Exam,,59268,MARIO BLANCO,10/21/1954,BCBS-PA Capital Blue Cross (Medicare Replacement/Advantage - PPO)
+07/17/2024,SOTOMAYOR_M,Main Office,Med. Refill 15,3 - Exam,,31329,JOHANNY COLON,03/06/1973,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Suboxone Follow Up 15,3 - Exam,,58165,EUCLIDES CARBONELL,06/02/1978,UPMC Health Plan (Medicaid Replacement - HMO)
+07/17/2024,SOTOMAYOR_M,Main Office,Weight Management,3 - Exam,,42442,LISA MILLER,07/18/1960,*SELF PAY*
+07/17/2024,SOTOMAYOR_M,Telehealth,Follow Up,3 - Exam,,59371,FRANCISCO ALICEA VARGAS,07/07/1964,BCBS-TX
+07/17/2024,,Main Office,15 minute slot,None,,, ,,*SELF PAY*
+07/17/2024,,Main Office,Acute Initial Visit 15,None,,, ,,*SELF PAY*
+07/17/2024,,Main Office,Annual Wellness Visit 15,None,SMP Cancel,54670,JONATHAN WINN,03/23/1972,Medicare-PA (Medicare)
+07/17/2024,,Main Office,Follow Up,None,PATIENT RESCHEDULED,31243,RAMON CASTILLO,02/10/1968,BCBS-PA Capital Blue Cross (PPO)
+07/17/2024,,Main Office,Follow Up,None,PATIENT RESCHEDULED,35098,YADIRA A FLORES,09/19/1982,Highmark Wholecare (Medicaid Replacement - HMO)
+07/17/2024,,Main Office,Initial Appointment 30,None,SMP Cancel,58746,MARIA HERNANDEZ CRUZ,04/16/1952,Aetna (Medicare Replacement/Advantage - HMO)
+07/17/2024,,Main Office,Lab Work Review 15,None,SCHEDULING ERROR,34810,MIRIAM FERNANDEZ,02/06/1968,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+07/17/2024,,Main Office,Lab Work Review 15,None,SCHEDULING ERROR,59309,KAREEM CAMPOS,06/14/1992,BCBS-PA Capital Blue Cross (PPO)
+07/17/2024,,Main Office,Med. Refill 15,None,PATIENT CANCELLED 24+ HRS IN ADVANCE,41291,WILLIAM MATZ,03/15/1972,*SELF PAY*
+07/17/2024,,Main Office,Med. Refill 15,None,PATIENT RESCHEDULED,56910,ROBERT M GRANDE,07/29/1977,Highmark Wholecare (Medicare Replacement/Advantage - HMO)
+07/17/2024,,Main Office,Med. Refill 15,None,SCHEDULING ERROR,45255,YAHAIRA PAGAN,03/28/1979,*SELF PAY*
